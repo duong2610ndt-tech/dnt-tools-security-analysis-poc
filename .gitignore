@@ -1,0 +1,18 @@
+﻿# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Binaries and game files
+*.exe
+*.dll
+*.dat
+*.rar
+*.zip
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Personal/account data
+Data/
+Acc/
